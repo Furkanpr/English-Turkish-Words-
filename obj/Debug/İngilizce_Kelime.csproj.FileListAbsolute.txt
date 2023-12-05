@@ -1,0 +1,11 @@
+C:\Users\fuurk\source\repos\İngilizce_Kelime\İngilizce_Kelime\bin\Debug\İngilizce_Kelime.exe.config
+C:\Users\fuurk\source\repos\İngilizce_Kelime\İngilizce_Kelime\bin\Debug\İngilizce_Kelime.exe
+C:\Users\fuurk\source\repos\İngilizce_Kelime\İngilizce_Kelime\bin\Debug\İngilizce_Kelime.pdb
+C:\Users\fuurk\source\repos\İngilizce_Kelime\İngilizce_Kelime\obj\Debug\İngilizce_Kelime.csproj.AssemblyReference.cache
+C:\Users\fuurk\source\repos\İngilizce_Kelime\İngilizce_Kelime\obj\Debug\İngilizce_Kelime.csproj.SuggestedBindingRedirects.cache
+C:\Users\fuurk\source\repos\İngilizce_Kelime\İngilizce_Kelime\obj\Debug\İngilizce_Kelime.Form1.resources
+C:\Users\fuurk\source\repos\İngilizce_Kelime\İngilizce_Kelime\obj\Debug\İngilizce_Kelime.Properties.Resources.resources
+C:\Users\fuurk\source\repos\İngilizce_Kelime\İngilizce_Kelime\obj\Debug\İngilizce_Kelime.csproj.GenerateResource.cache
+C:\Users\fuurk\source\repos\İngilizce_Kelime\İngilizce_Kelime\obj\Debug\İngilizce_Kelime.csproj.CoreCompileInputs.cache
+C:\Users\fuurk\source\repos\İngilizce_Kelime\İngilizce_Kelime\obj\Debug\İngilizce_Kelime.exe
+C:\Users\fuurk\source\repos\İngilizce_Kelime\İngilizce_Kelime\obj\Debug\İngilizce_Kelime.pdb
